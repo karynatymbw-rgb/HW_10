@@ -1,0 +1,80 @@
+    1  Ls
+    2  Postman
+    3  cd desktop
+    4  pwd
+    5  Ls
+    6  Osrtriv.url
+    7  mkdir Lesson
+    8  clear
+    9  touch empty.txt
+   10  vim empty.txt
+   11  cd desktop
+   12  vim empty.txt
+   13  nano empty.txt
+   14  cat empty.txt
+   15  nano empty.txt
+   16  cat empty.txt
+   17  clear
+   18  cd Git
+   19  cd Git
+   20  git config --global user.name "Karyna Tymoshenko"
+   21  got config --global user.email karynatym.bw@gmail.com
+   22  git config --global user.email karynatym.bw@gmail.com
+   23  git clone [200~https://github.com/karynatymbw-rgb/HW_10..git~
+   24  https://github.com/karynatymbw-rgb/HW_10..git
+   25  git clone https://github.com/karynatymbw-rgb/HW_10..git
+   26  git clone https://github.com/karynatymbw-rgb/HW_10..git
+   27   git clone https://github.com/karynatymbw-rgb/HW_10.git
+   28  git clone https://github.com/karynatymbw-rgb/HW_10.git
+   29  git clone https://github.com/karynatymbw-rgb/HW_10.git
+   30  cd HW_10
+   31  git add 
+   32  gir add.
+   33  git add .gitignore
+   34  git commit -m "Завдання перше
+   35  s
+   36  clear
+   37  cd .gitignore
+   38  cd git
+   39  cd desktop
+   40  cd git
+   41  cd .gitognore
+   42  cd HW_10
+   43  git add .gitignore
+   44  commit
+   45  git commit -m "Завдання перше"
+   46  cd desktop
+   47  cd git
+   48  touch main_test.txt
+   49  git add main_text.txt
+   50  cd HW_10
+   51  touch main_text.txt
+   52  git add main_text.txt
+   53  commit
+   54  git commit
+   55  cd desktop
+   56  cd git
+   57  cd HW_10
+   58  git status main_text.txt
+   59  git commit -m завдання два 
+   60  git commit -m task two
+   61  git commit -m "task two"
+   62  git cheackout -b <develop>
+   63  git checkout -b <develop>
+   64  git checkout -b develop
+   65  git touch develop_text.txt
+   66  touch develop_text.txt
+   67  git add develop_text.txt
+   68  git commit -m "task3.1"
+   69  git help
+   70  nano develop_text.txt
+   71  git status develop_text.txt
+   72  git add develop_text.txt
+   73  git status develop_text.txt
+   74  git commit -m "TASK 3.2"
+   75  git checkout main
+   76  git merge develop
+   77  git log
+   78  Windows history > command_list.csv
+   79  [200~history > command_list.csv~
+   80  history > command_list.csv
